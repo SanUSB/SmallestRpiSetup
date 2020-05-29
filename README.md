@@ -10,5 +10,7 @@ SD card .
 
 
 Video: https://youtu.be/ZmEgfkwnEcU
+
+![](https://github.com/SanUSB/SmallestRpiSetup/blob/master/images/setup6.png)
  
 *Have fun!*
