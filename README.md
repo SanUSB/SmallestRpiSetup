@@ -1,7 +1,7 @@
 # SmallestRpiSetup [![N|Solid](http://sanusb.blogspot.com.br/favicon.ico)](http://sanusb.org/)
 
 
-The smallest proposed headless Raspberry Pi setup works without the need for a keyboard, mouse, HDMI
+The smallest headless Raspberry Pi setup proposed works without the need for a keyboard, mouse, HDMI
 cable, monitor and Ethernet cable. Without even requiring configuration via serial interface.
 
 
